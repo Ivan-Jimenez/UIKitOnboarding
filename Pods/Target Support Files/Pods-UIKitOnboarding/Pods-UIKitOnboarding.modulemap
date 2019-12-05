@@ -1,0 +1,6 @@
+framework module Pods_UIKitOnboarding {
+  umbrella header "Pods-UIKitOnboarding-umbrella.h"
+
+  export *
+  module * { export * }
+}
